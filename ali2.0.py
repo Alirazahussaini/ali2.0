@@ -13,7 +13,7 @@ from datetime import datetime
 _req_get_  = requests.get
 _req_post_ = requests.post
 _js_lo_    = json.loads
-_dapunta_cici_    = print
+_dapunta_cici_ = print
 _cici_dapunta_    = input
 _dapunta_dapunta_ = open
 _cici_cici_       = exit
